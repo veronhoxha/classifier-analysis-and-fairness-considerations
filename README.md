@@ -1,6 +1,4 @@
-# Algorithmic Fairness, Accountability and Ethics
-## IT University of Copenhagen (Spring 2024)
+# Classifier Analysis and Fairness Considerations
 
-
-**This repository** contains all the essential code required for **Mandatory Assignment 1**.
-
+## Introduction
+This project is a collaborative effort by Veron Hoxha, Gino Franco Fazzi and Constantin-Bogdan Craciun.
